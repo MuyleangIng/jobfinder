@@ -1,0 +1,120 @@
+{
+    "navbar" : {
+        "home" : "Home",
+        "jobs" : "Jobs",
+        "media" : "Media",
+        "about-us" : "About Us",
+        "contact-us" : "Contact Us"
+    },
+    "footer" : {
+        "notification" : "Get job notifications",
+        "description" : "The lastest job news, articles, sent to your inbox weekly.",
+        "email" : "Your email address...",
+        "website" : {
+            "name" : "website",
+            "jobs" : "Jobs",
+            "media" : "Media"
+        },
+        "information" : {
+            "name" : "information",
+            "about-us" : "About Us",
+            "privacy-policy" : "Privicy Policy"
+        },
+        "contact-us" : {
+            "name" : "contact us",
+            "phone" : "Phone Number",
+            "email" : "Email"
+        }
+    },
+    "translate" : {
+        "english" : "English (EN)",
+        "khmer" : "Khmer (KH)"
+    },
+    "auth" : {
+        "login": "sign in",
+        "register" : "sign up"
+    },
+    "registrationForm" : {
+        "title" : "Register Account",
+        "submit" : "Create Account",  
+        "email" : "email must be a valid email",  
+        "min" : "Minimum 6 characters required",
+        "registering" : "Registering...",
+        "message" : "",
+        "labels" : {
+            "username" : "Name",
+            "email" : "Email",
+            "password" : "Password",
+            "confirmPassword" : "Confirm Password",
+            "haveAccount" : "Already Have an Account?",
+            "login" : "Login"
+        },
+        "placeholders" : {
+            "username" : "Enter name",
+            "email" : "Enter email",
+            "password" : "Enter password",
+            "confirmPassword" : "Enter confirm password"
+        },
+        "validation" : {
+            "username" : "name is required",
+            "min" : "Minimum 3 characters required",
+            "email" : "email is required",
+            "password" : "Password must be 8+ characters, with uppercase, lowercase, number, and special character",
+            "confirmPassword" : "confirm password is required",
+            "not-match" : "confirm password not match!"
+            
+        }
+    },
+    "verification" : {
+        "title" : "Email Verification",
+        "desc" : "Please enter the 6-digit code sent to your email",
+        "verify" : "Verify",
+        "verifying" : "Verifying...",
+        "otp_code" : {
+            "failed" : "Incorrect OTP, please try again.",
+            "success" : "OTP verified successfully!"
+        },
+        "time" : "Request a new code in",
+        "unreceived" : "Didn't receive the code?",
+        "resend" : "Resend Code"
+    },
+    "loginForm" : {
+        "title" : "Login Account",
+        "error" : "Invalid email or password",
+        "labels" : {
+            "email" : "Email",
+            "password" : "Password",
+            "forgotPassword" : "Forgot Password",
+            "login" : "Login",
+            "logining" : "Logining...",
+            "unauthorized" : "Don't Have An Account?",
+            "signUp" : "Sign Up"
+        },
+        "placeholders" : {
+            "email" : "Enter email",
+            "password" : "Enter password"
+        },
+        "validation" : {
+            "invalid" : "Invalid email",
+            "email" :  "email is required",
+            "password" : "password is required"
+        }
+    },
+    "resetPasswordForm": {
+    "title": "Reset Password",
+    "labels": {
+      "email": "Email",
+      "rememberPassword": "Remember your password?",
+      "login": "Login"
+    },
+    "placeholders": {
+      "email": "Enter your email"
+    },
+    "validation": {
+      "email": "Invalid email address",
+      "emailRequired": "Email is required"
+    },
+    "sending": "Sending...",
+    "submit": "Submit"
+  }
+}
